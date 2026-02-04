@@ -1,7 +1,7 @@
 {
   "name": "vscode-eslint-bug-repro",
   "version": "1.0.0",
-  "description": "",
+  "description": "Repro demo of vscode-eslint issue #2116",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@eslint/js": "^9.39.2",
-    "eslint": "^9.39.2",
-    "globals": "^17.3.0"
+    "@eslint/js": "latest",
+    "eslint": "latest",
+    "globals": "latest"
   }
 }
